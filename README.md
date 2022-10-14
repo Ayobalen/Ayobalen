@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://twitter.com/_ayoobami" target="blank"><img src="https://img.shields.io/twitter/follow/_ayoobami?logo=twitter&style=for-the-badge" alt="_ayoobami" /></a> </p>
 
-- 🌱 I’m currently learning **Laravel**
 
 - 💬 Ask me about **Backend engineering**
 
