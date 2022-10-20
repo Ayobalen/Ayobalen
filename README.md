@@ -12,8 +12,6 @@
 
 - 📄 Know about my experiences C:/Users/User/Downloads/Rasheed_Idris_Resume.pdf
 
-- ⚡ Fun fact **I'm a pro at everything I do**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/_ayoobami" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_ayoobami" height="30" width="40" /></a>
