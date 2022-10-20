@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **idrisrasheed2000@gmail.com**
 
-- 📄 Know about my experiences [file:///C:/Users/User/Downloads/Rasheed_Idris_Resume.pdf](file:///C:/Users/User/Downloads/Rasheed_Idris_Resume.pdf)
+- 📄 Know about my experiences (file:///C:/Users/User/Downloads/Rasheed_Idris_Resume.pdf)
 
 - ⚡ Fun fact **I'm a pro at everything I do**
 
