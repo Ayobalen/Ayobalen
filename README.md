@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **idrisrasheed2000@gmail.com**
 
-- 📄 Know about my experiences C:/Users/User/Downloads/Rasheed_Idris_Resume.pdf
+- 📄 Know about my experiences file:///C:/Users/User/Downloads/RASHEED%20IDRIS.pdf
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
