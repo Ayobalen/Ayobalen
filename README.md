@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **idrisrasheed2000@gmail.com**
 
-- 📄 Know about my experiences file:///C:/Users/User/Downloads/RASHEED%20IDRIS.pdf
+- 📄 Know about my experiences file:///home/alakemi/Downloads/Minimalist%20White%20and%20Grey%20Professional%20Resume.pdf
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
