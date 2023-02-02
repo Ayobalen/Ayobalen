@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://twitter.com/_ayoobami" target="blank"><img src="https://img.shields.io/twitter/follow/_ayoobami?logo=twitter&style=for-the-badge" alt="_ayoobami" /></a> </p>
 
 
-- 💬 Ask me about **front end development**
+- 💬 Ask me about **Backend development**
 
 - 📫 How to reach me **idrisrasheed2000@gmail.com**
 
