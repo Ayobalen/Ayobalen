@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rasheed Idris Ayobami</h1>
+<h1 align="center">Hi 👋, I'm Rasheed Idris </h1>
 <h3 align="center">A passionate backend software engineer from Nigeria</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayobalen&label=Profile%20views&color=0e75b6&style=flat" alt="ayobalen" /> </p>
